@@ -1,5 +1,9 @@
-<p align="center"
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glimmerdb/lorcana-icons/main/assets/readme/strength-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glimmerdb/lorcana-icons/main/icons/strength.svg"><img src="https://raw.githubusercontent.com/glimmerdb/lorcana-icons/main/icons/strength.svg" alt="Lorcana Icons" width=70></picture>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glimmerdb/lorcana-icons/main/assets/readme/strength-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glimmerdb/lorcana-icons/main/icons/strength.svg">
+  <img src="https://raw.githubusercontent.com/glimmerdb/lorcana-icons/main/icons/strength.svg" alt="Lorcana Icons" width=70>
+</picture>
 <h3 align="center">GlimmerDB: Lorcana Icons</h3>
 <p align="center">SVG icons inspired by Lorcana TCG's card templating</p>
 </p>
